@@ -1,0 +1,14 @@
+div{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(202, 12, 12);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+h1{
+    color: #fff;
+    font-size: 3em;
+    text-align: center;
+}
