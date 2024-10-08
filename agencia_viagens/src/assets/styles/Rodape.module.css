@@ -1,0 +1,18 @@
+.corpo {
+    background-color:  #222;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+
+}
+.icones{
+    width: 40%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img {
+    width: 50px;
+}
